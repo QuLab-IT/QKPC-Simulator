@@ -1,3 +1,9 @@
+"""
+Last modified on Fri Oct 17 2025
+
+@author: Lourenço Sumares
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import losses as lss
